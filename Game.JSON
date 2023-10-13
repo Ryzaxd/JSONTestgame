@@ -1,0 +1,53 @@
+{
+    "name": "Azuk the befouled",
+    "class": "Orc",
+    "level": 69,
+    "stats": {
+        "strength": 9999,
+        "dexterity": 12,
+        "intelligence": 2,
+        "agility": 80,
+        "charisma": 100
+    },
+
+    "equipment": {
+        "weapon": "Sword of the Orc King",
+        "armor": "Plate Mail of the Dragon",
+        "accessories": [
+            "Ring of Power",
+            "Amulet of the Orcs"
+        ]
+    },
+    
+    "inventory": [
+        {
+            "name": "Health Potion",
+            "quantity": 5
+        },
+
+        {
+            "name": "Mana Potion",
+            "quantity": 3
+        },
+
+        {
+            "name": "Gold",
+            "quantity": 230
+        },
+
+        {
+            "name": "Silver",
+            "quantity": 43
+        },
+
+        {
+            "name": "Copper",
+            "quantity": 87
+        },
+
+        {
+            "name": "Meat",
+            "quantity": 9999
+        }
+    ]
+}
